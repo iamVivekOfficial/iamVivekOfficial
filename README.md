@@ -2,9 +2,9 @@
 
 ✔️ Hi, I’m Vivek Kumar !, currently I'm working as Software Engineering Analyst at Accenture.
 
-✔️ I am interested in development. I also enjoy doing competitive programming.
+✔️ I'm interested in development. I also enjoy doing competitive programming.
 
-✔️ I have experience in FULL Stack Java Development.
+✔️ I've experience in FULL Stack Java Development.
 
 ✔️ How to reach me Linkedin - https://www.linkedin.com/in/vivek-kumar-12a57714b
 
