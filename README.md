@@ -1,6 +1,5 @@
 🌱 About myself
 
-
 ✔️ Hi, I’m Vivek Kumar !, currently I'm working as Software Engineering Analyst at Accenture.
 
 ✔️ I am interested in development. I also enjoy doing competitive programming.
